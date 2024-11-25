@@ -1,0 +1,13 @@
+[
+    {
+      "run": "20249181-2",
+      "nombre": "Pablo",
+      "apellido": "Maureira",
+      "direccion": "Avenida Los Carreras #1072",
+      "fono": 937613962,
+      "correo":"pablo.a.aceituno@gmail.com",
+      "montoCredito": 505050,
+      "deuda":606060,
+      "tipo": 3
+    }
+]
